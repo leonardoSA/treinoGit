@@ -1,1 +1,2 @@
 # treinoGit
+# alterando arquivo.
