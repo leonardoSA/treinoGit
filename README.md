@@ -1,2 +1,2 @@
-# treinoGit
-# alterando arquivo.
+# TreinoGit
+# primeiro treinamento em andamento.
